@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryangandotra&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-gandotra" /> </p>
 
-- 🔭 I’m currently working on **Front End Web Development**
+- 🔭 I’m currently working on **Ios App Development**
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
