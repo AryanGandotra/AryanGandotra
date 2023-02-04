@@ -4,8 +4,6 @@
 <!-- <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aryangandotra&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-gandotra"/></p>
-
-<p width="500px" align="left">
   
 - 🔭 I’m currently working on **Ios App Development**
 
@@ -19,10 +17,7 @@
 
 - ⚡ Fun fact **Good Sense of Humour**
 - A passionate individual who loves building web applications, a developer and artist by passion, an engineer by profession.
- </p>
-<span width="450px" align="right">
-<img src="https://leetcard.jacoblin.cool/gandotraaryan08?theme=dark&font=Merriweather%20Sans&ext=heatmap">
-  </span>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,10 +32,12 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   </p>
   <hr>
-<img align="right" width="45%" height="380px" src="https://static.vecteezy.com/system/resources/previews/017/106/092/non_2x/3d-illustration-of-man-doing-coding-and-programming-on-his-laptop-vector.jpg"/>
+<img align="right" width="45%" height="500px" src="https://static.vecteezy.com/system/resources/previews/017/106/092/non_2x/3d-illustration-of-man-doing-coding-and-programming-on-his-laptop-vector.jpg"/>
 <p widht="45%">
 <p><img width="50%"height="50%"align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangandotra&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068"" alt="aryangandotra"/></p>
-<p><img width="50%"height="50%"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangandotra&&theme=radical&title_color=ff3068"" alt="aryangandotra" /></p></p>
+<p><img width="50%"height="50%"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangandotra&&theme=radical&title_color=ff3068"" alt="aryangandotra" /></p>
+<img src="https://leetcard.jacoblin.cool/gandotraaryan08?theme=dark&font=Merriweather%20Sans&ext=heatmap">
+</p>
 
 
 
