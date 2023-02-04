@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryangandotra&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-gandotra" /> </p>
 
-
+<p width="45%" align="left">
+  
 - 🔭 I’m currently working on **Ios App Development**
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
@@ -18,8 +19,9 @@
 
 - ⚡ Fun fact **Good Sense of Humour**
 - A passionate individual who loves building web applications, a developer and artist by passion, an engineer by profession.
+ </p>
 
-<img src="https://leetcard.jacoblin.cool/gandotraaryan08?theme=dark&font=Merriweather%20Sans&ext=heatmap">
+<img width="45%" align="right"src="https://leetcard.jacoblin.cool/gandotraaryan08?theme=dark&font=Merriweather%20Sans&ext=heatmap">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
