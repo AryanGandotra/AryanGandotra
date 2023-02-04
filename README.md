@@ -19,8 +19,7 @@
 - ⚡ Fun fact **Good Sense of Humour**
 - A passionate individual who loves building web applications, a developer and artist by passion, an engineer by profession.
 
-<img width="700px"height="50%"align="center"src="https://leetcard.jacoblin.cool/gandotraaryan08theme=dark&font=Merriweather%20Sans&ext=heatmap">](https://leetcard.jacoblin.cool/gandotraaryan08?theme=dark&font=Merriweather%20Sans&ext=heatmap>
-<hr>
+<img src="https://leetcard.jacoblin.cool/gandotraaryan08?theme=dark&font=Merriweather%20Sans&ext=heatmap">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
