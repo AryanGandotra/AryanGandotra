@@ -36,6 +36,7 @@
 <img align="right" width="45%" height="380px" src="https://static.vecteezy.com/system/resources/previews/017/106/092/non_2x/3d-illustration-of-man-doing-coding-and-programming-on-his-laptop-vector.jpg"/>
 <p widht="45%">
 <p><img width="50%"height="50%"align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangandotra&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068"" alt="aryangandotra"/></p>
-<p><img width="50%"height="50%"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangandotra&&theme=radical&title_color=ff3068"" alt="aryangandotra" /></p></p?
+<p><img width="50%"height="50%"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangandotra&&theme=radical&title_color=ff3068"" alt="aryangandotra" /></p></p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/gandotraaryan08?theme=dark&font=Merriweather%20Sans&ext=heatmap)
 
 
