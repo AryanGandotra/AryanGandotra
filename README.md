@@ -33,7 +33,7 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   </p>
   <hr>
-<img align="right" width="45%" height="455px" src="https://static.vecteezy.com/system/resources/previews/017/106/092/non_2x/3d-illustration-of-man-doing-coding-and-programming-on-his-laptop-vector.jpg"/>
+<img align="right" width="45%" height="400px" src="https://static.vecteezy.com/system/resources/previews/017/106/092/non_2x/3d-illustration-of-man-doing-coding-and-programming-on-his-laptop-vector.jpg"/>
 <p widht="45%">
 <p><img width="50%"height="50%"align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangandotra&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068"" alt="aryangandotra"/></p>
 <p><img width="50%"height="50%"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangandotra&&theme=radical&title_color=ff3068"" alt="aryangandotra" /></p></p?
