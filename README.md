@@ -37,7 +37,7 @@
 <p width="45%">
 <p><img width="50%"height="50%"align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangandotra&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068"" alt="aryangandotra"/></p>
 <p><img width="50%"height="50%"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangandotra&&theme=radical&title_color=ff3068"" alt="aryangandotra" /></p>
-<img widht="50%" height="300px" src="https://leetcard.jacoblin.cool/gandotraaryan08?theme=dark&font=Merriweather%20Sans&ext=heatmap">
+<img src="https://leetcard.jacoblin.cool/gandotraaryan08?theme=dark&font=Merriweather%20Sans&ext=heatmap">
 </p>
 
 
