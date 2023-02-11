@@ -24,7 +24,6 @@
 <a href="https://in.linkedin.com/in/aryan-gandotra-708b07241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan Gandotra" height="30" width="40" /></a>
 <a href="https://leetcode.com/gandotraaryan08/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="a.r.y.a.n._.10.03" height="30" width="40" /></a>
 <a href="https://instagram.com/a.r.y.a.n._.10.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gandotraaryan08" height="30" width="40" /></a>
-<a href="[gandotraaryan08@gmail.com](mailto:gandotraaryan08@gmail.com)" target="blank"><img align="center" src="" alt="gandotraaryan08" height="30" width="40" /></a>
 </p>
 
 <hr>
