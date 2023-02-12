@@ -28,7 +28,7 @@
 <p width="45%">
 <p><img width="50%"height="50%"align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangandotra&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide" alt="aryangandotra"/></p>
 <p><img width="50%"height="50%"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangandotra&&theme=chartreuse-dark&hide" alt="aryangandotra" /></p>
-</p?
+</p>
 
 # 📊 Leetcode Stats:
 <p width="45%">
