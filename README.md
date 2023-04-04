@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **gandotraaryan08@gmail.com**
 
-- ⚡ Fun fact **Good Sense of Humour**
 - A passionate individual who loves building web applications, artist by passion and an engineer by profession.
 
 
