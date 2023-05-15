@@ -149,13 +149,15 @@
 
 <br> 
 
+
+
 ## <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Statistics.gif" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGandotra&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
 </details>
   
