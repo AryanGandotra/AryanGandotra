@@ -77,7 +77,7 @@
   </a>
 	
 <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?style=for-the-badge">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%231434C.svg?style=for-the-badge">
   </a>
 </p>
 
@@ -93,7 +93,7 @@
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
