@@ -14,8 +14,6 @@
 <br><br>
 
 
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=aryangandotra&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-gandotra"/></p> -->
-
 - 🔭 I’m currently working on **Ios App Development**
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
@@ -32,11 +30,7 @@
 
 <br>
 
-## <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/competitive_programming_profile.png" width=40> </picture> My Competitive Programming Profiles
 
-<p align="center">
-	<a href="https://leetcode.com/gandotraaryan08/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-</p>
 
 ## <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Connect-with-me.gif" width="100px"> </picture> Connect with me
 
@@ -45,6 +39,12 @@
 	<a href="https://github.com/AryanGandotra"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aryan-gandotra-708b07241/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/a.r.y.a.n._.10.03?igshid=YmMyMTA2M2Y"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+## <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/competitive_programming_profile.png" width=40> </picture> My Competitive Programming Profiles
+
+<p align="center">
+	<a href="https://leetcode.com/gandotraaryan08/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 </p>
 
 
