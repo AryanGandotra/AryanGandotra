@@ -26,7 +26,9 @@
 
 - 📫 How to reach me **gandotraaryan08@gmail.com**
 
-- A passionate individual who loves building web applications, artist by passion and an engineer by profession.
+- A passionate individual who loves building web applications
+
+- Artist by passion and an engineer by profession.
 
 <br>
 
