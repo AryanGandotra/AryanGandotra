@@ -101,7 +101,7 @@
     </a>
 	&emsp;
 </p>
-### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px>  </picture> Frontend Development
+ ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px></picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
