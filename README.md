@@ -75,11 +75,25 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   </a>
+	&emsp;
 	
 <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%231434C.svg?style=for-the-badge">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%6610f2.svg?style=for-the-badge">
   </a>
-</p>
+	&emsp;
+	
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+	&emsp;	
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+		&emsp;
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+		&emsp;
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+		&emsp;
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+	&emsp;
+	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+	
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px>  </picture> Frontend Development
 <p align="center"> 
@@ -120,6 +134,11 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+	
+	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+	 &emsp;
+	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+	 &emsp;
 </p>
 
  ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/IDEs.gif" width = 50px>  </picture> IDEs
