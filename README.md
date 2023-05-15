@@ -75,6 +75,10 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   </a>
+	
+	 <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
 </p>
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px>  </picture> Frontend Development
