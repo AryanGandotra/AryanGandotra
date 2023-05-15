@@ -48,7 +48,7 @@
 
 ## 🛠️ My Skills
 
-##<picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Programming_Languages.gif" width = 50px> </picture> Programming languages
+### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Programming_Languages.gif" width = 50px> </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
