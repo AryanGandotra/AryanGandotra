@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966) -->
-![MasterHead](https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/something_gif_log%20_%20Patreon.gif)
 
+![MasterHead](https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/something_gif_log%20_%20Patreon.gif)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aryan Gandotra </h1>
 <p align="center">
@@ -14,7 +14,6 @@
 <picture> <img align="right" src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Right_Side.gif" width = 250px></picture>
 
 <br><br>
-
 
 - 🔭 I’m currently working on **Ios App Development**
 
@@ -32,8 +31,6 @@
 
 <br>
 
-
-
 ## <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Connect-with-me.gif" width="100px"> </picture> Connect with me
 
 <p align="center">
@@ -49,10 +46,9 @@
 	<a href="https://leetcode.com/gandotraaryan08/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 </p>
 
-
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Programming_Languages.gif" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Programming_Languages.gif" width = 50px> </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -76,25 +72,35 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   </a>
 	&emsp;
-	
-<a href="https://getbootstrap.com/" target="_blank">
+    <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%6610f2.svg?style=for-the-badge">
-  </a>
+    </a>
 	&emsp;
-	
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-	&emsp;	
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-		&emsp;
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-		&emsp;
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-		&emsp;
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+    <a href="#" target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+    </a>
 	&emsp;
-	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-	
-
+    <a href="#" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+    </a>
+	&emsp;
+    <a href="#" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+    </a>
+	&emsp;
+    <a href="#" target="_blank">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+    </a>
+	&emsp;
+    <a href="#" target="_blank">
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+    </a>
+	&emsp;
+    <a href="#" target="_blank">
+    <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    </a>
+	&emsp;
+</p>
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
@@ -115,8 +121,8 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width = 50px>  </picture> Software & Tools
- 
+### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width = 50px> </picture> Software & Tools
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -141,8 +147,8 @@
 	 &emsp;
 </p>
 
- ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/IDEs.gif" width = 50px>  </picture> IDEs
- 
+### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/IDEs.gif" width = 50px> </picture> IDEs
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
@@ -151,8 +157,8 @@
   &emsp;
 </p>
 
- ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/CP_PS.gif" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
+### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/CP_PS.gif" width = 50px> </picture> Competitive Programming & Problem Solving
+
 <p align="center">
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -160,8 +166,8 @@
 
 </p>
 
- ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/OS.gif" width = 50px>  </picture> Operating Systems
- 
+### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/OS.gif" width = 50px> </picture> Operating Systems
+
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
@@ -172,15 +178,13 @@
   &emsp;
 </p>
 
-<br> 
+<br>
 
-
-
-## <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Statistics.gif" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Statistics.gif" width = 50px> </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
+----
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGandotra&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
@@ -188,39 +192,39 @@
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
-	
+---
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="AryanGandotra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AryanGandotra&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanGandotra&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
   </p>
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-----
-	
-[![AryanGandotra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AryanGandotra&theme=github	)](https://github.com/AryanGandotra/github-readme-activity-graph)
+---
 
- 
+[![AryanGandotra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AryanGandotra&theme=github)](https://github.com/AryanGandotra/github-readme-activity-graph)
+
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
-----
-	
+---
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AryanGandotra&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 	
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
-	
+---
+
 <div>
   <p align="center">
 	<a href="https://github.com/AryanGandotra/Leet-Code">
@@ -247,9 +251,9 @@
 </details>
 
 </br></br>
+
 ## 🐍 A Snake Eating my Contributions Graph
-	
+
 <p align = "center">
 	<img src = "https://github.com/AryanGandotra/AryanGandotra/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
-
