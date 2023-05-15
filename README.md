@@ -6,7 +6,7 @@
 </p>
 
 <br>
-# 💫 About Me
+#💫 About Me
 
 <picture> <img align="right" src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Right_Side.gif" width = 250px></picture>
 
