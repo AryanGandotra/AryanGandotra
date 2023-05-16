@@ -236,8 +236,8 @@
 	<a href="https://github.com/AryanGandotra/Leet-Code">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Leet-Code&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/AryanGandotra/stockly-1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=stockly-1&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AryanGandotra/Project-Stockly">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Project-Stockly&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/AryanGandotra/Heart-Disease-Prediction-using-Machine-Learning">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Heart-Disease-Prediction-using-Machine-Learning&theme=tokyonight" alt="GitHub Stats" />
