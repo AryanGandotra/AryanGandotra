@@ -4,7 +4,7 @@
 
 ![MasterHead](https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/something_gif_log%20_%20Patreon.gif)
 
-![](https://komarev.com/ghpvc/?username=AryanGandotra&color=ff69b4&style=flat-square&label=👀)
+![](https://komarev.com/ghpvc/?username=AryanGandotra&color=8D94BA&style=flat-square&label=👀)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aryan Gandotra </h1>
 <p align="center">
