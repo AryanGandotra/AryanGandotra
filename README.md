@@ -34,6 +34,7 @@
 - Artist by passion and an engineer by profession.
 
 <br>
+<br>
 
 ## <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Connect-with-me.gif" width="100px"> </picture> Connect with me
 
