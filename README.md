@@ -236,22 +236,22 @@
 <div>
   <p align="center">
 	<a href="https://github.com/AryanGandotra/Leet-Code">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Leet-Code&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Leet-Code&theme=dracula" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/AryanGandotra/Project-Stockly">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Project-Stockly&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Project-Stockly&theme=dracula" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/AryanGandotra/Heart-Disease-Prediction-using-Machine-Learning">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Heart-Disease-Prediction-using-Machine-Learning&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Heart-Disease-Prediction-using-Machine-Learning&theme=dracula" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/AryanGandotra/Browser-Chat-Application">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Browser-Chat-Application&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Browser-Chat-Application&theme=dracula" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/AryanGandotra/Bank-Management-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Bank-Management-System&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Bank-Management-System&theme=dracula" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/AryanGandotra/Medicare_js">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Medicare_js&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Medicare_js&theme=dracula" alt="GitHub Stats" />
     	</a>
 	
   </p>
