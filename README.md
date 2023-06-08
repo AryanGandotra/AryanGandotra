@@ -217,7 +217,7 @@
 ---
 
 <!-- [![AryanGandotra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AryanGandotra&theme=github)](https://github.com/AryanGandotra/github-readme-activity-graph) -->
-	[![AryanGandotra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryanGandotra&theme=dracula)](https://github.com/AryanGandotra/github-readme-activity-graph)
+[![AryanGandotra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryanGandotra&theme=dracula)](https://github.com/AryanGandotra/github-readme-activity-graph)
 
 </details>
 
