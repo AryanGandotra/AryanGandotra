@@ -152,7 +152,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/IDEs.gif" width = 50px> </picture> IDEs
 
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -162,7 +162,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/CP_PS.gif" width = 50px> </picture> Competitive Programming & Problem Solving
 
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   &emsp;
@@ -171,7 +171,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/OS.gif" width = 50px> </picture> Operating Systems
 
-<p align="center">
+<p align=left">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
