@@ -51,7 +51,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Programming_Languages.gif" width = 50px> </picture> Programming languages
 
-<p align="center"> 
+<p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank">  
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
