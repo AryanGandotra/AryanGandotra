@@ -34,7 +34,7 @@
 
 ## <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Connect-with-me.gif" width="100px"> </picture> Connect with me
 
-<p align="center">
+<p align="left">
 	<a href="mailto:gandotraaryan08@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/AryanGandotra"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aryan-gandotra-708b07241/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -43,7 +43,7 @@
 
 ## <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/competitive_programming_profile.png" width=40> </picture> My Competitive Programming Profiles
 
-<p align="center">
+<p align="left">
 	<a href="https://leetcode.com/gandotraaryan08/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 </p>
 
@@ -105,7 +105,7 @@
 
 ### <picture> <img src= "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px> </picture>  Frontend Development
 
-<p align="center"> 
+<p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -126,7 +126,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width = 50px> </picture> Software & Tools
 
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
