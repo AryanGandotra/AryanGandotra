@@ -15,9 +15,9 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **Ios App Development**
+- 🔭 I’m currently working on **Backend Developemnt**
 
-- 🌱 I’m currently learning **Data Structures And Algorithms Using C++**
+- 🌱 I’m currently learning **Data Structures And Algorithms Using C++ And React Js**
 
 - 🤝 I’m looking for help with **Back End Development**
 
