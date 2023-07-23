@@ -34,7 +34,7 @@
 
 ## <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Connect-with-me.gif" width="100px"> </picture> Connect with me
 
-<p align="left">
+<p align="center">
 	<a href="mailto:gandotraaryan08@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/AryanGandotra"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aryan-gandotra-708b07241/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -43,7 +43,7 @@
 
 ## <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/competitive_programming_profile.png" width=40> </picture> My Competitive Programming Profiles
 
-<p align="left">
+<p align="center">
 	<a href="https://leetcode.com/gandotraaryan08/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 </p>
 
@@ -51,7 +51,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Programming_Languages.gif" width = 50px> </picture> Programming languages
 
-<p align="left"> 
+<p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank">  
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -103,9 +103,9 @@
 	&emsp;
 </p>
 
-### <picture> <img src= "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px> </picture>  Frontend Development
+### <picture> <img src= "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px> </picture> Frontend Development
 
-<p align="left"> 
+<p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -126,7 +126,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width = 50px> </picture> Software & Tools
 
-<p align="left">
+<p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
@@ -152,7 +152,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/IDEs.gif" width = 50px> </picture> IDEs
 
-<p align="left">
+<p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -162,7 +162,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/CP_PS.gif" width = 50px> </picture> Competitive Programming & Problem Solving
 
-<p align="left">
+<p align="center">
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   &emsp;
@@ -187,7 +187,7 @@
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----
+---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGandotra&theme=dracula" alt="7oSkaaa" /></p>
 
