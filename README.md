@@ -252,11 +252,3 @@
   </p>
 </div>
 </details>
-
-</br></br>
-
-## 🐍 A Snake Eating my Contributions Graph
-
-<p align = "center">
-	<img src = "https://github.com/AryanGandotra/AryanGandotra/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
