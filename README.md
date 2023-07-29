@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Backend Developemnt**
 
-- 🌱 I’m currently learning **Data Structures And Algorithms Using C++ And React Js**
+- 🌱 I’m currently learning **Data Structures And Algorithms Using C++ And React JS**
 
 - 🤝 I’m looking for help with **Back End Development**
 
