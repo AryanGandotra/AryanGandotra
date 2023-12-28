@@ -15,13 +15,13 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **Backend Developemnt**
+- 🔭 I’m currently working on **React Js and Backend Development**
 
-- 🌱 I’m currently learning **Data Structures And Algorithms Using C++ And React JS**
+- 🌱 I’m currently learning **Data Structures and JAVA**
 
-- 🤝 I’m looking for help with **Back End Development**
+- 🤝 I’m looking for help with **JAVA**
 
-- 💬 Ask me about **Html, Css, javaScript**
+- 💬 Ask me about **Html, Css, javaScript, C++**
 
 - 📫 How to reach me **gandotraaryan08@gmail.com**
 
