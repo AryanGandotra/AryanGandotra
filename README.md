@@ -51,8 +51,8 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Programming_Languages.gif" width = 50px> </picture> Programming languages
 
-<p align="center"> 
-  &emsp; 
+<p> 
+
   <a href="https://www.cprogramming.com/" target="_blank">  
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
   </a> 
@@ -105,8 +105,8 @@
 
 ### <picture> <img src= "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px> </picture> Frontend Development
 
-<p align="center"> 
-  &emsp; 
+<p> 
+ 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
@@ -126,8 +126,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width = 50px> </picture> Software & Tools
 
-<p align="center">
-  &emsp;
+<p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -152,8 +151,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/IDEs.gif" width = 50px> </picture> IDEs
 
-<p align="center">
-  &emsp;
+<p >
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/X%20Code-0078d7.svg?style=for-the-badge"></a>
@@ -162,8 +160,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/CP_PS.gif" width = 50px> </picture> Competitive Programming & Problem Solving
 
-<p align="center">
-  &emsp;
+<p>
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   &emsp;
 
@@ -171,8 +168,7 @@
 
 ### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/OS.gif" width = 50px> </picture> Operating Systems
 
-<p align="center">
-  &emsp;
+<p>
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
