@@ -17,11 +17,11 @@
 
 - 🔭 I’m currently working on **React Js and Backend Development**
 
-- 🌱 I’m currently learning **Data Structures and JAVA**
+- 🌱 I’m currently learning **JAVA**
 
 - 🤝 I’m looking for help with **NEXT JS**
 
-- 💬 Ask me about **Html, Css, javaScript, C++**
+- 💬 Ask me about **Html, Css, javaScript, C++ and Data Structures**
 
 - 📫 How to reach me **gandotraaryan08@gmail.com**
 
