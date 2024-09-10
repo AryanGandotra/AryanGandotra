@@ -219,32 +219,3 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AryanGandotra&layout=compact&theme=dracula&column=4&margin-w=15&margin-h=15" alt="aryan" /></a> </p>
 	
 </details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
----
-
-<div>
-  <p align="center">
-	<a href="https://github.com/AryanGandotra/Leet-Code">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Leet-Code&theme=dracula" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/AryanGandotra/Project-Stockly">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Project-Stockly&theme=dracula" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/AryanGandotra/Heart-Disease-Prediction-using-Machine-Learning">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Heart-Disease-Prediction-using-Machine-Learning&theme=dracula" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/AryanGandotra/Browser-Chat-Application">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Browser-Chat-Application&theme=dracula" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/AryanGandotra/Bank-Management-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Bank-Management-System&theme=dracula" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/AryanGandotra/Medicare_js">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanGandotra&repo=Medicare_js&theme=dracula" alt="GitHub Stats" />
-    	</a>
-	
-  </p>
-</div>
-</details>
