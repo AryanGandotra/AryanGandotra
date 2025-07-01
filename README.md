@@ -185,7 +185,7 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGandotra&theme=dracula" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=AryanGandotra&theme=react" alt="aryan's streak" /></p>
 
 </details>
   
