@@ -49,133 +49,30 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Programming_Languages.gif" width = 50px> </picture> Programming languages
-
-<p> 
-
-  <a href="https://www.cprogramming.com/" target="_blank">  
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-	&emsp;
-    <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%6610f2.svg?style=for-the-badge">
-    </a>
-	&emsp;
-    <a href="#" target="_blank">
-    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-    </a>
-	&emsp;
-    <a href="#" target="_blank">
-    <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    </a>
-	&emsp;
-    <a href="#" target="_blank">
-    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-    </a>
-	&emsp;
-    <a href="#" target="_blank">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-    </a>
-	&emsp;
-    <a href="#" target="_blank">
-    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-    </a>
-	&emsp;
-    <a href="#" target="_blank">
-    <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    </a>
-	&emsp;
-</p>
-
-### <picture> <img src= "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width = 50px> </picture> Frontend Development
-
-<p> 
- 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-   </a>
-</p>
-
-### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width = 50px> </picture> Software & Tools
+### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Programming_Languages.gif" width="50px"> </picture> Programming Languages
 
 <p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>
-  &emsp;
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,java,html,css,dart" alt="Languages" />
 </p>
 
-### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/IDEs.gif" width = 50px> </picture> IDEs
-
-<p >
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/X%20Code-0078d7.svg?style=for-the-badge"></a>
-  &emsp;
-</p>
-
-### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/CP_PS.gif" width = 50px> </picture> Competitive Programming & Problem Solving
+### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Front_End.gif" width="50px"> </picture> Frontend Development
 
 <p>
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap" alt="Frontend" />
 </p>
 
-### <picture> <img src = "https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/OS.gif" width = 50px> </picture> Operating Systems
+### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width="50px"> </picture> Frameworks & Libraries
 
 <p>
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-  &emsp;
+  <img src="https://skillicons.dev/icons?i=express,nodejs,flask,bootstrap" alt="Frameworks & Libraries" />
 </p>
+
+### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width="50px"> </picture> Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
+</p>
+
 
 <br>
 
