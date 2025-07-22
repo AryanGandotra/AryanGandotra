@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap" alt="Frontend" />
 </p>
 
-### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width="50px"> </picture> Frameworks & Libraries
+### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Statistics.gif" width="50px"> </picture> Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=express,nodejs,vite,flask,flutter,bootstrap" alt="Frameworks & Libraries" />
