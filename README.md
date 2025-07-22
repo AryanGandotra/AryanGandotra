@@ -64,13 +64,25 @@
 ### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width="50px"> </picture> Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=express,nodejs,flask,bootstrap" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,vite,flask,flutter,bootstrap" alt="Frameworks & Libraries" />
 </p>
 
 ### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width="50px"> </picture> Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,figma,postman" alt="Tools" />
+</p>
+
+### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width="50px"> </picture> Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu" alt="os" />
+</p>
+
+### <picture> <img src="https://github.com/AryanGandotra/AryanGandotra/blob/main/Images/Software_Tools.gif" width="50px"> </picture> Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure" alt="os" />
 </p>
 
 
